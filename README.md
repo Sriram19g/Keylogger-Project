@@ -7,7 +7,7 @@ This repository contains a keylogger program designed to capture keystrokes from
 ## Installation
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/Sriram19g/keylogger.git
+   git clone https://github.com/Sriram19g/keylogger-Project.git
    ```
 2. Navigate to the cloned directory:
    ```
