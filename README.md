@@ -7,7 +7,7 @@ This repository contains a keylogger program designed to capture keystrokes from
 ## Installation
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/Sriram19g/keylogger.git
    ```
 2. Navigate to the cloned directory:
    ```
@@ -44,7 +44,7 @@ For any questions, issues, or suggestions, please open an issue on GitHub or con
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this software according to the terms of the license.
 
 ## Credits
-This keylogger was created by [Your Name](https://github.com/your-username). Special thanks to [contributors](https://github.com/your-username/keylogger/graphs/contributors) for their valuable contributions.
+This keylogger was created by [SRIRAM G](https://github.com/Sriram19g). Special thanks to [contributors](https://github.com/your-username/keylogger/graphs/contributors) for their valuable contributions.
 
 ## Contribution
 Contributions are welcome! Please feel free to fork this repository, make changes, and submit pull requests.
